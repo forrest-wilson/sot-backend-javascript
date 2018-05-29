@@ -1,0 +1,25 @@
+{
+  "name": "sot-backend-javascript",
+  "version": "1.0.0",
+  "description": "Backend Javascript Masterclass for Summer of Tech",
+  "main": "server/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcusklein/sot-backend-javascript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcusklein/sot-backend-javascript/issues"
+  },
+  "homepage": "https://github.com/marcusklein/sot-backend-javascript#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "node-geocoder": "^3.22.0",
+    "twitter": "^1.7.1"
+  }
+}
